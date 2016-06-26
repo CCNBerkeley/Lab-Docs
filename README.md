@@ -1,2 +1,2 @@
-# Lab-Wiki
-Repository for Lab Wiki Material 
+# Lab-Docs
+Repository for lab documents.
